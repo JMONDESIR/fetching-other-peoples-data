@@ -1,0 +1,11 @@
+.foodlist {
+  display: flex;
+  justify-content: space-around;
+}
+
+.foodcard {
+  border: 2px solid red;
+  margin: 1em;
+  padding: 5px;
+  width: 17vw;
+}
